@@ -16,8 +16,10 @@ We want to help our users to live a healthy and convenient life. We help collect
 <p>The methods we used to obtain data includes scraping with BeautifulSoup, downloading csv from the web with pandas, and interpreting JSON API format using python requests module.
 Variety of Kind of Data Sources</P>
 <p>We collected data from different kind of places, including:</p>
-A world weather forecasting website that includes the weather around the world. We scraped the data from the website through BeautifulSoup. The data contents include the time of each location, name of the location, and the weather description.
-Several different files downloaded from the World Health Organization’s website. The data contents include the number of cases that are reported to the WHO, vaccination situation of the country, and each country’s current population information.
-Lots of world exchange rates from Web API provided by Open Exchange Rate website. We interacted with the data using python’s library to extract the information we wanted.
+<ul>
+<li>A world weather forecasting website that includes the weather around the world. We scraped the data from the website through BeautifulSoup. The data contents include the time of each location, name of the location, and the weather description.</li>
+<li>Several different files downloaded from the World Health Organization’s website. The data contents include the number of cases that are reported to the WHO, vaccination situation of the country, and each country’s current population information.</li>
+<li>Lots of world exchange rates from Web API provided by Open Exchange Rate website. We interacted with the data using python’s library to extract the information we wanted.</li>
+</ul>
 
 
